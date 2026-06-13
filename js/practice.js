@@ -59,4 +59,9 @@ console.log(name );
 name[3].className = "pink"
 
 // ! getElementsByTagName**************************************
+let fr = document.getElementsByTagName("p")
+console.log(fr);
+
+
+// live DOM Object
 
